@@ -1,4 +1,4 @@
-// Ability to get number of contact persons i.e. count by City or State
+// Ability to get number of contact persons i.e. count by City or State.
 
 class Contact {
     constructor(firstName, lastName, address, city, state, zip, phone, email) {
